@@ -1,9 +1,22 @@
-This is someone
+# Cheese_akakaby
 
-hello world
+## DEMO
 
-konnichiwa
+- デプロイしている場合は URL を記入（任意）
 
-hola como estas!
+## 紹介と使い方
 
-こんばんは
+トイレライフの充実を目指す会社のホームページです。
+
+## 工夫した点
+
+メニュー欄にカーソルを置いた時の動き。
+スクロールなしでそれぞれのページに飛べる。
+
+## 苦戦した点
+
+css が効かないとき。。。特に quattro.html
+
+## 参考にした web サイトなど
+
+youtube
